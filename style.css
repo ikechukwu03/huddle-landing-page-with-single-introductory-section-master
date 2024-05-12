@@ -58,3 +58,11 @@ a:hover{
   color: white;
 }
 
+.icons img{
+  height: 40px;
+  width: 40px;
+}
+
+.icons img:hover{
+  background-color: red;
+}
